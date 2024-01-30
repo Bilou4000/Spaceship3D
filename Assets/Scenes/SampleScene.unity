@@ -616,7 +616,7 @@ MonoBehaviour:
   speed: 10
   tilt: 1
   rotatingYSpeed: 1
-  rotatingXSpeed: 1
+  rotatingXSpeed: 0.1
 --- !u!4 &1861676844
 Transform:
   m_ObjectHideFlags: 0
